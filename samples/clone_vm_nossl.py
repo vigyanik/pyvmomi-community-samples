@@ -1,9 +1,5 @@
 #!/usr/bin/env python
 """
-Written by Dann Bohn
-Github: https://github.com/whereismyjetpack
-Email: dannbohn@gmail.com
-
 Clone a VM from template example
 """
 from pyVmomi import vim
